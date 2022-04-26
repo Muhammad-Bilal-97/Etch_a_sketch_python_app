@@ -1,1 +1,1 @@
-# Etch_a_sketch_python_app
+# Etch_a_sketch_app
